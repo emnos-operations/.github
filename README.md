@@ -4,6 +4,8 @@ Emnos is a leading provider of an analytical, AI-based B2B platform for retailer
 
 We are the Operatiosn team of Emnos, and our responsibility is to plan, design, improve and operate Emnos' internal and customer facing infrastructure. Our work is based on Agile, DevOps and Google SRE methodologies and we measure ourselves by [DORA](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance) and [SPACE](https://queue.acm.org/detail.cfm?id=3454124) metrics.
 
+If you want to join us please visit [our website](https://www.emnos.com/), where you can find open positions. 
+
 ## Team members ##
 
 Meriem Khamari - [email](mailto:meriem.khamari@emnos.com)
